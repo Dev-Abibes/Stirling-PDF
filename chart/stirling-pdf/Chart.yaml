@@ -1,7 +1,8 @@
 apiVersion: v2
 appVersion: 0.14.2
 description: locally hosted web application that allows you to perform various operations on PDF files
-home: https://github.com/Frooodle/Stirling-PDF
+# home: https://github.com/Frooodle/Stirling-PDF
+home: https://github.com/Dev-Abibes/Stirling-PDF
 keywords:
 - stirling-pdf
 - helm
